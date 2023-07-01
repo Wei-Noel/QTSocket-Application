@@ -1,6 +1,9 @@
 # QTSocket-Application
 A small communication application by QT
-![image](https://github.com/Wei-Noel/QTSocket-Application/assets/73543663/8443cd45-4c2c-4655-a906-c53414a61615)
+
+![image](https://github.com/Wei-Noel/QTSocket-Application/assets/73543663/03df919a-26d4-40c5-b1a2-901c15d884cf)
+![image](https://github.com/Wei-Noel/QTSocket-Application/assets/73543663/bcf8a90e-c524-4307-a263-b7c364fe95dc)
+
 # How to Use
 1.Start Server
 Click the Start Server button to make the server run, and then start the Client. 
